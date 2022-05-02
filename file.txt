@@ -4,17 +4,15 @@ Perché ci si mette sempre un'ora a scegliere cosa guardare la sera? Certo è di
 
 1. Aprire Netflix;
 2.Entrare nella propria area;
-3.Sono da solo o in gruppo;
-4. Vedere tempo a disposizione;
-5.Se sono da solo scelgo da catalogo Film o Serie;
-6.Altrimenti in gruppo mettersi d'accordo su genere;
-7.	.SE  ho tanto tempo scegliere Film o Maratona Serie tv;
+3. Sono da solo o in gruppo;
+4. Se sono da solo scelgo da catalogo Film o Serie (vado al punto 6);
+5. Altrimenti in gruppo mettersi d'accordo su genere;
+6. Vedere tempo a disposizione;
+	.SE  ho tanto tempo scegliere Film o Maratona Serie tv;
 		-SE ho poco sonno:Maratona Serie tv;
 		-ALTRIMENTI tanto sonno: Film;
 	.SE Poco tempo scegliere un solo ep or serie iniziata;
 		-SE ho poco sonno: serie iniziata;
 		-ALTRIMENTI tanto sonno: un solo ep;
-
-8.Altrimenti torna al punto 5.
-9. Quando è finito il Film o Serie chiudo Netflix;
-
+7. Altrimenti torna al punto 4;
+8. Quando è finito il Film chiudo Netflix
